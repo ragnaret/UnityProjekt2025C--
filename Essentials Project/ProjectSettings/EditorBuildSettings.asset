@@ -4,6 +4,18 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/0MainMenu.unity
+    guid: 52e64d9767309af4c9bebf6a5138ffdc
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/1TopNatalia.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/2TopOliwer.unity
+    guid: fcec2bf77dedc324eab179fb9dd2e3f2
+  - enabled: 1
+    path: Assets/_Unity Essentials/Scenes/3TopKarol.unity
+    guid: f368a38567ae1f24da3f96b21982229b
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
